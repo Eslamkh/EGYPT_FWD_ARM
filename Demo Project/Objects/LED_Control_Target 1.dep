@@ -1,0 +1,87 @@
+Dependencies for Project 'LED_Control', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\EGYPT_FWD_ARM\Src\Mcal\Dio.c)(0x62E3E974)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/dio.o -MD)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Dio.h)(0x62D2B1B6)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Dio_Types.h)(0x62E0383B)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+F (.\EGYPT_FWD_ARM\Src\Mcal\IntCtrl.c)(0x62E410C8)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/intctrl.o -MD)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\IntCtrl.h)(0x62DBF7D4)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Config\IntCtrl_Cfg.h)(0x62E3FEF9)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\IntCtrl_Types.h)(0x62D2B7CF)
+F (.\EGYPT_FWD_ARM\Src\Mcal\Port.c)(0x62E3E56E)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/port.o -MD)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Port.h)(0x62DC1770)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Port_Types.h)(0x62E032A5)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+I (EGYPT_FWD_ARM\Src\Config\Port_Cfg.h)(0x62E414FE)
+F (.\EGYPT_FWD_ARM\Src\Mcal\Gpt.c)(0x62E4199F)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/gpt.o -MD)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Gpt.h)(0x62E24978)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Gpt_Types.h)(0x62E27F4E)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Config\Gpt_Cfg.h)(0x62E24180)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+F (.\EGYPT_FWD_ARM\Src\Mcal\SysCtr.c)(0x62E3DD7C)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/sysctr.o -MD)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\SysCtr.h)(0x62E29E3E)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Config\SysCtr_Cfg.h)(0x62E2A005)
+F (.\EGYPT_FWD_ARM\Src\Appl\main.c)(0x62E40DCA)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/main.o -MD)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\SysCtr.h)(0x62E29E3E)
+I (EGYPT_FWD_ARM\Src\Common\Mcu_Hw.h)(0x62E40373)
+I (EGYPT_FWD_ARM\Src\Common\Bit_Math.h)(0x62CAB7FC)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Port.h)(0x62DC1770)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Port_Types.h)(0x62E032A5)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Dio.h)(0x62D2B1B6)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Dio_Types.h)(0x62E0383B)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Gpt.h)(0x62E24978)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Gpt_Types.h)(0x62E27F4E)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\IntCtrl.h)(0x62DBF7D4)
+I (EGYPT_FWD_ARM\Src\Config\IntCtrl_Cfg.h)(0x62E3FEF9)
+F (.\EGYPT_FWD_ARM\Src\Config\IntCtrl_Lcfg.c)(0x5F471B1A)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/intctrl_lcfg.o -MD)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+F (.\EGYPT_FWD_ARM\Src\Config\Port_Lcfg.c)(0x62E414F9)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/port_lcfg.o -MD)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Config\Port_Cfg.h)(0x62E414FE)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Port_Types.h)(0x62E032A5)
+F (.\EGYPT_FWD_ARM\Src\Config\Gpt_Lcfg.c)(0x62E41125)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/gpt_lcfg.o -MD)
+I (EGYPT_FWD_ARM\Src\Config\Gpt_Cfg.h)(0x62E24180)
+I (EGYPT_FWD_ARM\Src\Mcal\Inc\Gpt_Types.h)(0x62E27F4E)
+I (EGYPT_FWD_ARM\Src\Common\Std_Types.h)(0x62CAB54E)
+I (EGYPT_FWD_ARM\Src\Common\Platform_Types.h)(0x5F471B1A)
+I (EGYPT_FWD_ARM\Src\Common\Compiler.h)(0x5F471B1A)
+F (RTE/Device/TM4C123GH6PM/startup_TM4C123.s)(0x51B6E406)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 537" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"TM4C123GH6PM SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c123.o)
+F (RTE/Device/TM4C123GH6PM/system_TM4C123.c)(0x62DD9D4A)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./EGYPT_FWD_ARM/Src/Common -I ./EGYPT_FWD_ARM/Src/Config -I ./EGYPT_FWD_ARM/Src/Mcal/Inc-I./RTE/_Target_1-IC:/Users/pc/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/pc/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/system_tm4c123.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6252B538)
+I (C:\Users\pc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\pc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\pc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Users\pc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\pc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\pc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F9F3E)
+I (C:\Users\pc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\pc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
