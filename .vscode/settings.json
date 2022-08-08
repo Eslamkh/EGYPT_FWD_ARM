@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "port.h": "c",
+        "port_cfg.h": "c"
+    }
+}
